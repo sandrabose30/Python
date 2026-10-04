@@ -1,4 +1,20 @@
 # object oriented programing
+# OOP stands for Object-Oriented Programming
+
+# It is a programming method where we organize code using objects and classes.
+
+# In simple words:
+#
+# OOP is a way of writing programs by creating classes and objects that contain data and functions.
+#
+# The main concepts of OOP are:
+#
+# Class
+# Object
+# Encapsulation
+# Inheritance
+# Polymorphism
+# Abstraction
 
 # object
 # attributes - defines an object - variable

@@ -1,10 +1,15 @@
 # set{}
+# A set is a collection of unique items.
+# set is written using curly braces {}.
 # datatype
 # no need unique elements
 # duplicate elements can add but in output it removes duplecates in o/p
 # not ordered
 # mutable
 
+# Properties of a Set:
+#
+# 1. Unique Values (No Duplicates)
 # set={1,2,3,4,5,6,7,8,8,9,10,10}
 # print(set)
 
